@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# AWS Configs & Local State
+state.json
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
